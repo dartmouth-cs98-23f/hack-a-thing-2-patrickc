@@ -10,7 +10,7 @@ Include some screenshots.
 
 ## Who Did What?
 
-TODO: who worked on what part?
+This was a solo project.
 
 ## What you learned
 
@@ -18,8 +18,13 @@ TODO: what worked / what didn't work
 
 ## Authors
 
-TODO: list of authors
+Patrick Carey
 
 ## Acknowledgments
 
-TODO: cite any tutorials followed here
+Gmail API
+https://www.youtube.com/watch?v=7E3NNxeXiys
+Chrome extension
+https://www.youtube.com/watch?v=0n809nd4Zu4
+Google calendar API
+https://www.youtube.com/watch?v=1JkKtGFnua8
