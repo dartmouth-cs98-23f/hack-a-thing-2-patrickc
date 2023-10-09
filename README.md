@@ -3,10 +3,8 @@
 
 ## What you built? 
 
-TODO: Short description of what you attempted to build
+Our group had multiple things which we planned on completing, in this I have created a chrome extension in the event that we use this feature in our main project. I opted for this over ML since I have taken a few ML courses so I thought this would be a better plan.
 
-Include some screenshots.
-[How?](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
 
 ## Who Did What?
 
@@ -14,7 +12,7 @@ This was a solo project.
 
 ## What you learned
 
-TODO: what worked / what didn't work
+I learned how to create a chrome extension which I have never done before. I also tried out the google api's and tried to get familiar with them.
 
 ## Authors
 
